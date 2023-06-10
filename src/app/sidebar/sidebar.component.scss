@@ -1,0 +1,25 @@
+.sidebar-container {
+    background-color: #191718;
+    color: #fff;
+    height: 100%;
+
+    .links {
+        display: flex;
+        flex-direction: column;
+        a {
+            color: #AAAAAA;
+            text-decoration: none;
+            padding: 16px 14px;
+            font-weight: 700;
+        }
+        a:hover {
+            background-color: #5C5C5C;
+            color: #fff;
+        }
+    }
+}
+
+h3 {
+    margin-top: 0;
+}
+

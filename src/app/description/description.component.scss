@@ -1,0 +1,12 @@
+.description-container {
+    background-color: #EFEFEF;
+    color: #000;
+    text-align: center;
+    padding: 38px 100px;
+}
+
+@media only screen and (max-width: 768px) {
+    .description-container {
+        padding: 3rem;
+    }
+}
